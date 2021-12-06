@@ -1,6 +1,6 @@
 classdef project < matlab.apps.AppBase
 
-    %% Properties that correspond to app components
+    %% Properties that correspond to app components%%
     properties (Access = public)
         UIFigure                      matlab.ui.Figure
         UIAxes                        matlab.ui.control.UIAxes
